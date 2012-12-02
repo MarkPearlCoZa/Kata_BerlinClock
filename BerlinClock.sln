@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockGenerator", "BerlinClock\BerlinClockGenerator.csproj", "{931CF155-1953-402A-B993-A474BD986010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockUnitTests", "BerlinClockUnitTests\BerlinClockUnitTests.csproj", "{C0299565-8BEB-428B-AA1C-3756E09DDE13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockIntegrationTests", "BerlinClockIntegrationTests\BerlinClockIntegrationTests.csproj", "{68075277-21AF-4E2A-9B2D-F7CCABEE182F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockConsoleViewer", "BerlinClockConsoleViewer\BerlinClockConsoleViewer.csproj", "{B4E811A9-1F6D-41D5-AF9B-978A9B0DFC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClockWindowsViewer", "BerlinClockWindowsViewer\BerlinClockWindowsViewer.csproj", "{46C45B5E-7543-48FA-9882-8A84BE73AE0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931CF155-1953-402A-B993-A474BD986010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931CF155-1953-402A-B993-A474BD986010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931CF155-1953-402A-B993-A474BD986010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931CF155-1953-402A-B993-A474BD986010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0299565-8BEB-428B-AA1C-3756E09DDE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0299565-8BEB-428B-AA1C-3756E09DDE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0299565-8BEB-428B-AA1C-3756E09DDE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0299565-8BEB-428B-AA1C-3756E09DDE13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68075277-21AF-4E2A-9B2D-F7CCABEE182F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68075277-21AF-4E2A-9B2D-F7CCABEE182F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68075277-21AF-4E2A-9B2D-F7CCABEE182F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68075277-21AF-4E2A-9B2D-F7CCABEE182F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E811A9-1F6D-41D5-AF9B-978A9B0DFC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E811A9-1F6D-41D5-AF9B-978A9B0DFC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E811A9-1F6D-41D5-AF9B-978A9B0DFC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E811A9-1F6D-41D5-AF9B-978A9B0DFC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C45B5E-7543-48FA-9882-8A84BE73AE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C45B5E-7543-48FA-9882-8A84BE73AE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C45B5E-7543-48FA-9882-8A84BE73AE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C45B5E-7543-48FA-9882-8A84BE73AE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
